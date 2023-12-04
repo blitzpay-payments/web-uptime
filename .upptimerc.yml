@@ -13,8 +13,6 @@ sites:
     url: https://blog.blitzpay.com.br/
   - name: Blitzpay - API
     url: https://api.blitzpay.com.br/healthchecker
-  - name: Blitzpay Club - App
-    url: https://club.blitzpay.com.br/login
   - name: Blitzpay Members - API
     url: https://api.members.blitzpay.com.br/healthchecker
 
