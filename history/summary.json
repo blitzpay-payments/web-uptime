@@ -94,19 +94,19 @@
     "url": "https://api.members.blitzpay.com.br/healthchecker",
     "icon": "https://icons.duckduckgo.com/ip3/api.members.blitzpay.com.br.ico",
     "slug": "blitzpay-members-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 1673,
-    "timeWeek": 539,
-    "timeMonth": 287,
-    "timeYear": 242,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 241,
+    "timeDay": 1171,
+    "timeWeek": 498,
+    "timeMonth": 284,
+    "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-02-23": 0
+      "2024-02-23": 8
     }
   }
 ]
