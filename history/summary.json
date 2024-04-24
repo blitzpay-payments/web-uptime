@@ -40,18 +40,20 @@
     "url": "https://pay.blitzpay.com.br/health-checker",
     "icon": "https://icons.duckduckgo.com/ip3/pay.blitzpay.com.br.ico",
     "slug": "blitzpay-payments",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 147,
-    "timeWeek": 261,
-    "timeMonth": 214,
-    "timeYear": 218,
-    "dailyMinutesDown": {}
+    "time": 217,
+    "timeDay": 161,
+    "timeWeek": 250,
+    "timeMonth": 213,
+    "timeYear": 217,
+    "dailyMinutesDown": {
+      "2024-04-24": 0
+    }
   },
   {
     "name": "Blitzpay - Blog",
