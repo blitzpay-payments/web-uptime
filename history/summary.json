@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1178,
-    "timeDay": 1134,
-    "timeWeek": 1369,
-    "timeMonth": 1283,
-    "timeYear": 1178,
+    "time": 1180,
+    "timeDay": 1350,
+    "timeWeek": 1385,
+    "timeMonth": 1297,
+    "timeYear": 1180,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 383,
-    "timeDay": 277,
-    "timeWeek": 391,
-    "timeMonth": 428,
-    "timeYear": 383,
+    "time": 385,
+    "timeDay": 617,
+    "timeWeek": 424,
+    "timeMonth": 438,
+    "timeYear": 385,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 217,
-    "timeDay": 154,
-    "timeWeek": 256,
-    "timeMonth": 212,
+    "timeDay": 188,
+    "timeWeek": 213,
+    "timeMonth": 214,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2024-04-24": 21
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1078,
-    "timeDay": 939,
-    "timeWeek": 999,
-    "timeMonth": 1059,
-    "timeYear": 1078,
+    "time": 1079,
+    "timeDay": 1203,
+    "timeWeek": 1028,
+    "timeMonth": 1067,
+    "timeYear": 1079,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 194,
-    "timeWeek": 242,
-    "timeMonth": 232,
-    "timeYear": 226,
+    "time": 227,
+    "timeDay": 386,
+    "timeWeek": 274,
+    "timeMonth": 234,
+    "timeYear": 227,
     "dailyMinutesDown": {}
   },
   {
@@ -103,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 217,
-    "timeWeek": 224,
-    "timeMonth": 218,
+    "timeDay": 211,
+    "timeWeek": 218,
+    "timeMonth": 220,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2024-02-23": 8
